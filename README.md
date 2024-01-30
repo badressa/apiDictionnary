@@ -1,2 +1,2 @@
 # apiDictionnary
-Is an Api That receivces list of wordss,  retreive explanation from cambridge dictionnary by API
+Is an Api That receivces list of words,  retreive explanation from cambridge dictionnary by using  python http requests ...
